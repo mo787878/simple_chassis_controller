@@ -76,9 +76,9 @@
 
 - [CLion Attach to process](https://www.jetbrains.com/help/clion/attaching-to-local-process.html)
 
-调试simple_chassis_controller时, 应该 attach 到 `gzsever`
+调试simple_chassis_controller时.
 
-- [simple_chassis_controller]
+- [simple_chassis_controller](https://github.com/Whathelp233/simple_chassis_controller/tree/master)
 
 - [ros_control: A generic and simple control framework for ROS](http://www.theoj.org/joss-papers/joss.00456/10.21105.joss.00456.pdf)
 
