@@ -42,7 +42,7 @@
 
   
 
-- [rm_description](https://github.com/gdut-dynamic-x/rm_description/tree/assignment)
+- [rm_description_for_task](https://github.com/Whathelp233/rm_description_for_task)
 
   
 
@@ -246,7 +246,6 @@
 
 - [底盘逆运动学解算/#舵轮](https://zju-helloworld.github.io/Wiki/%E7%BB%84%E4%BB%B6%E8%AF%B4%E6%98%8E%EF%BC%88%E6%97%A7%EF%BC%89/%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%80%9A%E7%94%A8%E7%BB%84%E4%BB%B6/%E7%AE%97%E6%B3%95/%E5%BA%95%E7%9B%98%E9%80%86%E8%BF%90%E5%8A%A8%E5%AD%A6%E8%A7%A3%E7%AE%97/)
 
-这篇论文真真真水...
 
   
 
@@ -278,7 +277,7 @@
 
 - [navigationTutorialsRobotSetupOdom](http://wiki.ros.org/navigation/Tutorials/RobotSetup/Odom)
 
-- [Kinematic Model of a Four Mecanum Wheeled Mobile Robot](https://research.ijcaonline.org/volume113/number3/pxc3901586.pdf)
+- [底盘运动学解算](https://www.bilibili.com/video/BV1toH6ekEfJ/?spm_id_from=333.337.search-card.all.click)
 
   
 
@@ -326,7 +325,7 @@
 
 1. 自由发挥
 
-2. 如 使用 teleop_twist_keyboard 键盘操控底盘
+2. 如 使用 teleop_twist_keyboard 键盘操控底盘(要求CPP)
 
 3. 如 可在配置文件设定 底盘加速度
 

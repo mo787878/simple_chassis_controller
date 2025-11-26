@@ -25,7 +25,7 @@ research code, expect that it changes often and any fitness for a particular pur
 #### Dependencies
 
 - [Robot Operating System (ROS)](http://wiki.ros.org) (middleware for robotics),
-- [rm_description](https://github.com/gdut-dynamic-x/rm_description)
+- [rm_description_for_task](https://github.com/Whathelp233/rm_description_for_task)
 - controller_interface
 - forward_command_controller
 - hardware_interface
